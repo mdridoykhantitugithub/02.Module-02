@@ -1,0 +1,109 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#all-area{
+    background-color: gray;
+}
+
+.container{
+    width: 1170px;
+}
+
+#header .heading h1{
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+    padding: 20px;
+    padding-top: 100px;
+}
+
+#images-area .pic{
+    text-align: center;
+}
+
+#images-area .pic img{
+    width: 200px;
+    height: 200px;
+}
+
+#links-area .link{
+    text-align: center;
+}
+
+#links-area .link a{
+    color: red;
+}
+
+#links-area .link p{
+    color: white;
+    text-align: justify;
+}
+
+
+
+#pic-area .pic{
+    text-align: center;
+}
+
+#pic-area .pic img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+
+
+#ul{
+    text-align: center;
+}
+
+#ul .items ul{
+    list-style: none;
+    display: inline-block;
+}
+
+#ul .items ul li{
+    display: inline-block;
+    padding: 20px;
+}
+
+
+
+#ol{
+    text-align: center;
+}
+
+
+
+#form-area{
+    text-align: center;
+}
+
+#form-area .btn{
+    background-color: red;
+    color: white;
+    border: none;
+    width: 50px;
+    height: auto;
+    padding: 5px;
+    cursor: pointer;
+}
+
+#form-area .btn:hover{
+    background-color: rgb(0, 255, 136);
+    color: rgb(0, 0, 0);
+    border: none;
+
+}
+
+
+
+#footer-area{
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+
